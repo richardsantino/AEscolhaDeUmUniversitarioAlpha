@@ -240,7 +240,7 @@
 1569076134 c:\users\i3\desktop\allegro\allegro-5.0.10-mingw-4.7.0\include\allegro5\allegro_native_dialog.h
 	"allegro5/allegro.h"
 
-1569805899 source:c:\users\i3\documents\repositoriosgithub\aescolhadeumuniversitario\aeu\aedutest.c
+1571524797 source:c:\users\i3\documents\repositoriosgithub\aescolhadeumuniversitario\aeu\aedutest.c
 	<stdio.h>
 	<string.h>
 	<allegro5/allegro.h>
@@ -249,6 +249,8 @@
 	<allegro5/allegro_native_dialog.h>
 	<allegro5/allegro_image.h>
 	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
 
 1569275744 source:c:\repositorios\aescolhadeumuniversitario\aeu\aedutest.c
 	<stdio.h>
@@ -752,7 +754,7 @@
 1569964027 c:\users\guilherme.rfandrade\desktop\allegro\allegro-5.0.10-mingw-4.7.0\include\allegro5\allegro_primitives.h
 	<allegro5/allegro.h>
 
-1569969760 source:c:\users\caroline.vbento\documents\repo\aescolhadeumuniversitario\aeu\aedutest.c
+1571783818 source:c:\users\caroline.vbento\documents\repo\aescolhadeumuniversitario\aeu\aedutest.c
 	<stdio.h>
 	<string.h>
 	<allegro5/allegro.h>
@@ -761,6 +763,8 @@
 	<allegro5/allegro_native_dialog.h>
 	<allegro5/allegro_image.h>
 	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
 
 1569280464 c:\users\caroline.vbento\desktop\allegro\allegro-5.0.10-mingw-4.7.0\include\allegro5\allegro.h
 	"allegro5/base.h"
@@ -1001,4 +1005,30 @@
 
 1569280465 c:\users\caroline.vbento\desktop\allegro\allegro-5.0.10-mingw-4.7.0\include\allegro5\allegro_primitives.h
 	<allegro5/allegro.h>
+
+1569076134 c:\users\i3\desktop\allegro\allegro-5.0.10-mingw-4.7.0\include\allegro5\allegro_audio.h
+	"allegro5/allegro.h"
+
+1569076134 c:\users\i3\desktop\allegro\allegro-5.0.10-mingw-4.7.0\include\allegro5\allegro_acodec.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_audio.h"
+
+1571182849 source:c:\users\caroline.vbento\documents\repositorios\aescolhadeumuniversitario\aeu\aedutest.c
+	<stdio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1569280465 c:\users\caroline.vbento\desktop\allegro\allegro-5.0.10-mingw-4.7.0\include\allegro5\allegro_audio.h
+	"allegro5/allegro.h"
+
+1569280464 c:\users\caroline.vbento\desktop\allegro\allegro-5.0.10-mingw-4.7.0\include\allegro5\allegro_acodec.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_audio.h"
 
